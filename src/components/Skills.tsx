@@ -8,6 +8,7 @@ const skills = [
   { name: 'Node.js', level: 70 },
   { name: 'Python', level: 90 },
   { name: 'SQL', level: 70},
+  {name:'Machine Learning',level:80},
 ];
 
 const softSkills = [

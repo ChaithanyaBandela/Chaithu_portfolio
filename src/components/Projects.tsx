@@ -25,7 +25,7 @@ const projects: Project[] = [
     description:'House Price Prediction is a machine learning project that uses historical housing data to predict the price of a house based on various features.',
     image:'https://img.freepik.com/free-vector/technology-background_52683-5265.jpg?ga=GA1.1.1012993482.1680683815&semt=ais_hybrid&w=740',
     technologies: ['Python','Machine Learning'],
-    codeLink:'https://github.com',
+    codeLink:'https://github.com/ChaithanyaBandela/House_price_prediction',
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const projects: Project[] = [
     description: 'A modern portfolio website built with React and Tailwind CSS. Features responsive design, dark mode, and smooth animations.',
     image: 'https://img.freepik.com/premium-vector/web-landing-page-template-design_706582-340.jpg?ga=GA1.1.1012993482.1680683815&semt=ais_hybrid&w=740',
     technologies: ['React', 'CSS'],
-    codeLink: 'https://github.com/ChaithanyaBandela/Chaithu_portfolio',
+    codeLink: 'https://github.com/ChaithanyaBandela/chaithu_portfolio',
   },
   {
     id: 4,
